@@ -1,1 +1,1 @@
-a simple website showing YUMMY RECIPES
+a simple website showing YUMMY RECIPES of MY OWN design
